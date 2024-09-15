@@ -24,3 +24,7 @@ Após seguir todas essas etapas, você pode abrir o arquivo do programa "Face Sa
 
 <img src="https://github.com/Lucasbarbosa332/Reconhecimento-Facial-/blob/main/Indentificador%20facial/facial/Fotos/4.5-ADMs.jpg?raw=true" width="70%" alt="Clothing GIF">
 
+# Função KEY 🗝️
+
+Pode ser personalizado...
+Essa parte é apenas para aqueles que irão usar o código para gerenciar algo, como portas eletrônicas, sistemas de monitoramento, entre outros. Também haverá suporte para o Raspberry Pi. Nestas duas abas, você pode adicionar uma pessoa como administradora. Sendo assim, no final do código haverá um "Def Key". Quando uma pessoa entrar na frente da câmera e o nome dela estiver na lista de administradores, ela irá chamar essa função e executará o que estiver dentro dela "em loop". Caso contrário, se uma pessoa sem poderes administrativos ou alguém que não esteja cadastrado ficar na frente da câmera, ela não será chamada. Dessa forma, quem for utilizar este código pode realizar uma ação, como destrancar ou trancar uma porta, por exemplo, por meio desta variável. Lembrando que dentro dessa função ela pode ser totalmente personalizada caso você tenha conhecimento do que esteja fazendo.
