@@ -22,4 +22,5 @@ Após seguir todas essas etapas, você pode abrir o arquivo do programa "Face Sa
 
 "Caso ocorra algum erro, pode ser um problema isolado relacionado ao seu sistema atual. Em caso de dúvidas, entre em contato pelo 'ctt no perfil'."
 
+<img src="" width="30%" alt="Clothing GIF">
 
